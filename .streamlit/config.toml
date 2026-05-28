@@ -1,0 +1,19 @@
+# .streamlit/config.toml
+# Streamlit configuration file
+# This customizes how the Streamlit app looks and behaves
+
+[theme]
+# Color theme for the app
+primaryColor = "#0f3460"        # Buttons and interactive elements
+backgroundColor = "#ffffff"     # Main background
+secondaryBackgroundColor = "#f0f2f6"  # Sidebar and secondary areas
+textColor = "#1a1a2e"           # Main text color
+
+[server]
+# Server settings
+maxUploadSize = 10              # Max file upload size in MB
+enableCORS = false              # Disable CORS for local dev
+
+[browser]
+# Browser settings
+gatherUsageStats = false        # Don't send usage data to Streamlit

@@ -16,8 +16,7 @@ A beginner-friendly **Machine Learning + NLP** project that detects whether a ne
 
 | Home Screen | Fake Result | Real Result |
 |:-----------:|:-----------:|:-----------:|
-| *<img width="1915" height="953" alt="image" src="https://github.com/user-attachments/assets/4c8b5d41-82d8-4ecb-a709-2aa94736c9cf" />
-* | *(screenshot)* | *(screenshot)* |
+| <img width="1915" height="953" alt="image" src="https://github.com/user-attachments/assets/4c8b5d41-82d8-4ecb-a709-2aa94736c9cf" /> | <img width="1914" height="956" alt="image" src="https://github.com/user-attachments/assets/f3617c94-cc32-420b-8fda-fd26d0091185" /> | <img width="1918" height="955" alt="image" src="https://github.com/user-attachments/assets/c2591060-2acb-478c-bd25-7b521e750787" /> |
 
 ---
 

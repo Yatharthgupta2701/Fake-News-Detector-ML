@@ -13,6 +13,7 @@ textColor = "#1a1a2e"           # Main text color
 # Server settings
 maxUploadSize = 10              # Max file upload size in MB
 enableCORS = false              # Disable CORS for local dev
+fileWatcherType = "none"
 
 [browser]
 # Browser settings

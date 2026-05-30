@@ -16,7 +16,8 @@ A beginner-friendly **Machine Learning + NLP** project that detects whether a ne
 
 | Home Screen | Fake Result | Real Result |
 |:-----------:|:-----------:|:-----------:|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* |
+| *<img width="1915" height="953" alt="image" src="https://github.com/user-attachments/assets/4c8b5d41-82d8-4ecb-a709-2aa94736c9cf" />
+* | *(screenshot)* | *(screenshot)* |
 
 ---
 
@@ -190,6 +191,6 @@ MIT License — feel free to use and modify!
 
 ## 🙋 Author
 
-Built by **[Your Name]** as a Machine Learning portfolio project.
+Built by **Yatharth Gupta** as a Machine Learning portfolio project.
 
 ⭐ **Star this repo** if you found it helpful!
